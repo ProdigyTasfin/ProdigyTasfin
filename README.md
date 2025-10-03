@@ -28,7 +28,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ProdigyTasfin&theme=radical&no-frame=true&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=ProdigyTasfin&theme=default&no-frame=true&margin-w=10)
 
 ---
 
