@@ -18,6 +18,18 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact)  
 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ProdigyTasfinl)  
+
+---
+
+## 🌍 Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=ProdigyTasfin)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=ProdigyTasfin&theme=radical&no-frame=true&margin-w=10)
+
 ---
 
 📫 **Get in touch:** tasfinhasansakib165@gmail.com  
