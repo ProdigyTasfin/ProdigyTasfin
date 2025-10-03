@@ -18,7 +18,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact)  
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ProdigyTasfinl)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ProdigyTasfin)
 
 ---
 
