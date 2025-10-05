@@ -26,12 +26,19 @@ Currently exploring the depths of machine learning while sharpening my problem-s
 
 ---
 
-## 📈 GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProdigyTasfin&show_icons=true&hide_border=true&theme=radical" alt="Tasfin's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&hide_border=true&theme=radical" alt="Top Languages" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=ProdigyTasfin&hide_border=true&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ProdigyTasfin&show_icons=true&hide_border=true" alt="Tasfin's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&hide_border=true" alt="Top Languages" height="160"/>
+</div>
+
+---
+
+## 🔥 GitHub Streak  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -39,7 +46,7 @@ Currently exploring the depths of machine learning while sharpening my problem-s
 ## 🏆 Achievement Wall  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ProdigyTasfin&no-frame=true&margin-w=15&row=2&column=4&theme=algolia" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ProdigyTasfin&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
