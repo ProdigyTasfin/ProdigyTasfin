@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tasfin  
 
-💻 **Software Engineer | AI & Cybersecurity Enthusiast**  
+💻 **Programmer | Developer | AI & ML Enthusiast**  
 Passionate about building intelligent systems and secure applications.  
 Currently exploring the depths of machine learning while sharpening my problem-solving skills through competitive programming.
 
