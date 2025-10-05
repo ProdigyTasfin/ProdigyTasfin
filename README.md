@@ -36,11 +36,3 @@ https://komarev.com/ghpvc/?username=ProdigyTasfin&color=blueviolet&style=flat-sq
 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 Always learning, always building, always securing. 🔐
-
-<div align="center">
-⚡ Fun Fact: I can debug recursive functions in my sleep!
-</div>
-Last updated: December 2023
-
-🔧 Tools I Use
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </p>
