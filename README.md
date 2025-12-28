@@ -1,4 +1,4 @@
-<!-- Animated Header -->
+<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a79df&height=200&section=header&text=Hi%20I'm%20Tasfin&fontSize=40&fontColor=ffffff" />
 </p>
@@ -48,7 +48,7 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 
 ---
 
-## 🔥 Contribution Streak (Animated)
+## 🔥 Contribution Streak
 <p align="center">
   <img height="185" src="https://streak-stats.vercel.app/api?user=ProdigyTasfin&theme=default&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=daily&fire=FF8C00&sideNums=000000&sideLabels=000000&currStreakLabel=000000&ring=000000&stroke=000000&background=FFFFFF&animation=true" />
 </p>
