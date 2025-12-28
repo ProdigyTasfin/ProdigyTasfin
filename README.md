@@ -26,7 +26,7 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 ## 🧠 Areas of Interest
 - Artificial Intelligence & Machine Learning  
 - Cybersecurity & Secure Systems  
-- Data Structures and Algorithms  
+- Data Structures & Algorithms  
 - Recursion & Optimization  
 - Full-Stack Web Development  
 
@@ -34,21 +34,25 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 
 ## 📈 GitHub Overview
 <p align="center">
-<img src="https://metrics.lecoq.io/ProdigyTasfin?template=classic&base=header,activity,repositories&config.timezone=Asia/Dhaka" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=algolia" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&theme=algolia" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=algolia" />
 </p>
 
 ---
 
-## 🏅 GitHub Achievements
+## 🏆 Achievements
 <p align="center">
-<img src="https://metrics.lecoq.io/ProdigyTasfin?template=classic&base=achievements&achievements.only=stars,followers,repositories&config.timezone=Asia/Dhaka" />
+  <img src="https://github-profile-trophy.koyeb.app/?username=ProdigyTasfin&theme=algolia&column=4" />
 </p>
 
 ---
@@ -60,7 +64,7 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 
 ## 👁️ Profile Views
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=ProdigyTasfin&style=flat-square&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=ProdigyTasfin&style=flat-square&color=blueviolet"/>
 </p>
 
 ---
