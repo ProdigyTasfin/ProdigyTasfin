@@ -17,10 +17,9 @@ I love solving problems, learning complex concepts, and building meaningful proj
 
 ## 🌟 What I Do
 - 🧠 Learn **Machine Learning** & **Deep Learning**
-- 🔐 Explore **Cybersecurity** fundamentals & secure coding
+- 🔐 Explore **Cybersecurity**
 - 🧮 Strengthen **Data Structures & Algorithms**
 - 🏗 Build **full-stack web applications**
-- ⚙ Write maintainable, clean code
 
 ---
 
@@ -33,21 +32,12 @@ I love solving problems, learning complex concepts, and building meaningful proj
 
 ---
 
-## 🧰 Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,java,cpp,php" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,linux" />
-</p>
-
----
-
 ## 🤓 Fun Nerd Facts
 - C (1972) powers Linux, Git, databases, and OS kernels.  
 - Java’s JVM allows **Write Once, Run Anywhere** portability.  
 - Python was named after **Monty Python**, not the animal.  
 - PHP originally meant **Personal Home Page Tools**.  
-- C++ runs game engines, browsers, and high-performance systems.  
+- C++ runs gaming engines, browsers, and high-performance systems.  
 
 ---
 
@@ -61,7 +51,7 @@ I love solving problems, learning complex concepts, and building meaningful proj
   </a>
 </p>
 
-> Replace **Your-Project-1** and **Your-Project-2** with your own repositories.
+> Replace **Your-Project-1** and **Your-Project-2** with your actual repositories.
 
 ---
 
@@ -109,26 +99,10 @@ I love solving problems, learning complex concepts, and building meaningful proj
   <img src="https://raw.githubusercontent.com/ProdigyTasfin/ProdigyTasfin/output/github-contribution-grid-snake.svg" />
 </p>
 
-> If it doesn't load yet, I can set up the **GitHub Action** for you.
-
----
-
-## 🌍 Visitors Around The World
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ProdigyTasfin" />
-</p>
-
 ---
 
 ## 📬 Contact  
-📧 **Email:** [tasfinhasansakib165@gmail.com](mailto:tasfinhasansakib165@gmail.com)
-
----
-
-## 👁️ Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ProdigyTasfin&style=flat-square&color=blueviolet"/>
-</p>
+📧 **Email:** tasfinhasansakib165@gmail.com  
 
 ---
 
