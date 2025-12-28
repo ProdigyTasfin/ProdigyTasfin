@@ -35,22 +35,19 @@ I love solving problems, learning complex concepts, and building meaningful proj
 
 ## 🧰 Toolbox
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,python,js,java,cpp,php" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,linux" />
 </p>
 
 ---
 
 ## 🤓 Fun Nerd Facts
-- C (1972) powers Linux, Git, databases, and most OS kernels.  
+- C (1972) powers Linux, Git, databases, and OS kernels.  
 - Java’s JVM allows **Write Once, Run Anywhere** portability.  
 - Python was named after **Monty Python**, not the animal.  
-- PHP originally stood for **Personal Home Page Tools**.  
-- C++ runs **game engines**, **browsers**, and **high-performance systems**.  
+- PHP originally meant **Personal Home Page Tools**.  
+- C++ runs game engines, browsers, and high-performance systems.  
 
 ---
 
@@ -64,7 +61,7 @@ I love solving problems, learning complex concepts, and building meaningful proj
   </a>
 </p>
 
-> Replace **Your-Project-1** and **Your-Project-2** with your real repos.
+> Replace **Your-Project-1** and **Your-Project-2** with your own repositories.
 
 ---
 
@@ -112,13 +109,13 @@ I love solving problems, learning complex concepts, and building meaningful proj
   <img src="https://raw.githubusercontent.com/ProdigyTasfin/ProdigyTasfin/output/github-contribution-grid-snake.svg" />
 </p>
 
-> If snake doesn’t load yet, I can generate the GitHub Action for you.
+> If it doesn't load yet, I can set up the **GitHub Action** for you.
 
 ---
 
 ## 🌍 Visitors Around The World
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ProdigyTasfin/count.svg" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ProdigyTasfin" />
 </p>
 
 ---
