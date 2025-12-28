@@ -41,20 +41,6 @@ I love solving problems, learning complex concepts, and building meaningful proj
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/ProdigyTasfin/Your-Project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProdigyTasfin&repo=Your-Project-1&theme=default" />
-  </a>
-  <a href="https://github.com/ProdigyTasfin/Your-Project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProdigyTasfin&repo=Your-Project-2&theme=default" />
-  </a>
-</p>
-
-> Replace **Your-Project-1** and **Your-Project-2** with your actual repositories.
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=default" />
