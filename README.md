@@ -32,27 +32,41 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 
 ---
 
-## 📈 GitHub Overview
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=algolia" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&theme=algolia" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&theme=default" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ProdigyTasfin&theme=dark&hide_border=false" />
+  <img height="180" src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default&hide_border=false" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🧩 Profile Summary
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ProdigyTasfin&theme=onedark&column=4" />
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProdigyTasfin&theme=default" />
+</p>
+
+---
+
+## 🗂️ Repos by Language
+<p align="center">
+  <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProdigyTasfin&theme=default" />
+</p>
+
+---
+
+## ⏳ Most Productive Time
+<p align="center">
+  <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProdigyTasfin&theme=default&utcOffset=6" />
 </p>
 
 ---
