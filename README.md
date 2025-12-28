@@ -25,11 +25,11 @@ I love solving problems, learning complex concepts, and building meaningful proj
 ---
 
 ## 🎯 What I’m Currently Learning
-- Machine Learning Algorithms  
-- Network Security Essentials  
-- JavaScript & React  
-- Problem-Solving (Codeforces + LeetCode)  
-- System Design Basics  
+- Java and Algorithms  
+- Python  
+- C++  
+- Problem-Solving (Codeforces)  
+- Dev  
 
 ---
 
