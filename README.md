@@ -29,24 +29,42 @@ I love solving problems, learning complex concepts, and building meaningful proj
 - Python  
 - C++  
 - Problem-Solving (Codeforces)  
-- Dev  
+- DevOps Basics  
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### 💡 Programming Languages
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+## 🧰 Toolbox
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### 🌐 Frameworks & Tools
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+---
+
+## 🤓 Fun Nerd Facts
+- C (1972) powers Linux, Git, databases, and most OS kernels.  
+- Java’s JVM allows **Write Once, Run Anywhere** portability.  
+- Python was named after **Monty Python**, not the animal.  
+- PHP originally stood for **Personal Home Page Tools**.  
+- C++ runs **game engines**, **browsers**, and **high-performance systems**.  
+
+---
+
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/ProdigyTasfin/Your-Project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProdigyTasfin&repo=Your-Project-1&theme=default" />
+  </a>
+  <a href="https://github.com/ProdigyTasfin/Your-Project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProdigyTasfin&repo=Your-Project-2&theme=default" />
+  </a>
 </p>
+
+> Replace **Your-Project-1** and **Your-Project-2** with your real repos.
 
 ---
 
@@ -85,6 +103,22 @@ I love solving problems, learning complex concepts, and building meaningful proj
 ## ⏳ Most Productive Time
 <p align="center">
   <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProdigyTasfin&theme=default&utcOffset=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ProdigyTasfin/ProdigyTasfin/output/github-contribution-grid-snake.svg" />
+</p>
+
+> If snake doesn’t load yet, I can generate the GitHub Action for you.
+
+---
+
+## 🌍 Visitors Around The World
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ProdigyTasfin/count.svg" />
 </p>
 
 ---
