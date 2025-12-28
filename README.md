@@ -34,44 +34,23 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 
 ## 📈 GitHub Overview
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorgs.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=default" 
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorgs.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&theme=default" 
-    alt="Top Languages"
-  />
+  <img src="https://metrics.lecoq.io/ProdigyTasfin?template=classic&base=header%2Cactivity%2Crepositories&config.timezone=Asia%2FDhaka" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <a href="https://github.com/ProdigyTasfin">
-    <img 
-      src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default" 
-      alt="GitHub Streak"
-    />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default" />
 </p>
 
 ---
 
 ## 🏅 GitHub Achievements
 <p align="center">
-  <a href="https://github.com/ProdigyTasfin?tab=achievements">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=ProdigyTasfin&theme=flat&column=4&margin-w=10" 
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img src="https://metrics.lecoq.io/ProdigyTasfin?template=classic&base=achievements&achievements.only=stars%2Cfollowers%2Crepositories&config.timezone=Asia%2FDhaka" />
 </p>
 
----
 
 ## 📬 Contact
 📧 **Email:** [tasfinhasansakib165@gmail.com](mailto:tasfinhasansakib165@gmail.com)
