@@ -45,14 +45,14 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ProdigyTasfin&theme=dark&hide_border=false" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.koyeb.app/?username=ProdigyTasfin&theme=algolia&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ProdigyTasfin&theme=onedark&column=4" />
 </p>
 
 ---
