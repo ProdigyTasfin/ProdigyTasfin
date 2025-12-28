@@ -10,15 +10,15 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 
 ### 💡 Programming Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
 ### 🌐 Frameworks & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
 ---
@@ -34,32 +34,33 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 
 ## 📈 GitHub Overview
 <p align="center">
-  <img src="https://metrics.lecoq.io/ProdigyTasfin?template=classic&base=header%2Cactivity%2Crepositories&config.timezone=Asia%2FDhaka" />
+<img src="https://metrics.lecoq.io/ProdigyTasfin?template=classic&base=header,activity,repositories&config.timezone=Asia/Dhaka" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default" />
+<img src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default" />
 </p>
 
 ---
 
 ## 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://metrics.lecoq.io/ProdigyTasfin?template=classic&base=achievements&achievements.only=stars%2Cfollowers%2Crepositories&config.timezone=Asia%2FDhaka" />
+<img src="https://metrics.lecoq.io/ProdigyTasfin?template=classic&base=achievements&achievements.only=stars,followers,repositories&config.timezone=Asia/Dhaka" />
 </p>
 
+---
 
-## 📬 Contact
+## 📬 Contact  
 📧 **Email:** [tasfinhasansakib165@gmail.com](mailto:tasfinhasansakib165@gmail.com)
 
 ---
 
 ## 👁️ Profile Views
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ProdigyTasfin&style=flat-square&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=ProdigyTasfin&style=flat-square&color=blueviolet"/>
 </p>
 
 ---
