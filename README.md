@@ -34,11 +34,17 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 
 ## 📈 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=default&cache_seconds=86400"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=default&cache_seconds=86400" 
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&theme=default"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&theme=default" 
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -46,7 +52,10 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 ## 🔥 Contribution Streak
 <p align="center">
   <a href="https://github.com/ProdigyTasfin">
-    <img src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default&date_format=j%20M%5B%20Y%5D"/>
+    <img 
+      src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default&date_format=j%20M%5B%20Y%5D" 
+      alt="GitHub Streak"
+    />
   </a>
 </p>
 
@@ -55,7 +64,10 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 ## 🏅 GitHub Achievements
 <p align="center">
   <a href="https://github.com/ProdigyTasfin?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=ProdigyTasfin&theme=flat&column=4&margin-w=10"/>
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=ProdigyTasfin&theme=flat&column=4&margin-w=10" 
+      alt="GitHub Trophies"
+    />
   </a>
 </p>
 
