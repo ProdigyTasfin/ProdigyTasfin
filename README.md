@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a79df&height=200&section=header&text=Tasfin's%20Workspace&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation with Nerdy Facts -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&center=true&vCenter=true&color=0A79DF&width=700&lines=Computer+Science+Student;Programmer+%7C+AI+%26+ML+Enthusiast;Cybersecurity+Learner;Full-Stack+Developer+in+Progress;Learning+Every+Day+%F0%9F%93%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&color=0A79DF&lines=Programmer+%7C+AI+%26+ML+Enthusiast;Did+You+Know%3F+C+was+created+in+1972+and+still+runs+the+world;Did+You+Know%3F+Java's+JVM+lets+code+run+anywhere;Did+You+Know%3F+Python+is+an+interpreted+dynamically-typed+language;Did+You+Know%3F+PHP+powered+Facebook's+early+backend;Did+You+Know%3F+C%2B%2B+is+used+in+high-performance+engines" />
 </p>
 
 # 👋 Hi, I’m Tasfin
@@ -20,7 +20,7 @@ I love solving problems, learning complex concepts, and building meaningful proj
 - 🔐 Explore **Cybersecurity** fundamentals & secure coding
 - 🧮 Strengthen **Data Structures & Algorithms**
 - 🏗 Build **full-stack web applications**
-- ⚙ Work with **clean code** & **best practices**
+- ⚙ Write maintainable, clean code
 
 ---
 
