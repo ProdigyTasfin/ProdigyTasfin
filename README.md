@@ -35,14 +35,14 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 ## 📈 GitHub Overview
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=default&cache_seconds=86400" 
+    src="https://github-readme-stats-git-masterorgs.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=default" 
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&theme=default" 
+    src="https://github-readme-stats-git-masterorgs.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&theme=default" 
     alt="Top Languages"
   />
 </p>
@@ -53,7 +53,7 @@ Currently learning **machine learning, cybersecurity, and full-stack development
 <p align="center">
   <a href="https://github.com/ProdigyTasfin">
     <img 
-      src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default&date_format=j%20M%5B%20Y%5D" 
+      src="https://streak-stats.demolab.com?user=ProdigyTasfin&theme=default" 
       alt="GitHub Streak"
     />
   </a>
