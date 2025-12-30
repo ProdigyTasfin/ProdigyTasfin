@@ -52,7 +52,7 @@ I love solving problems, learning complex concepts, and building meaningful proj
 
 ---
 
-## 🔥 Contribution Streak (Animated)
+## 🔥 Contribution Streak
 <p align="center">
   <img height="185" src="https://streak-stats.vercel.app/api?user=ProdigyTasfin&theme=default&hide_border=false&animation=true" />
 </p>
