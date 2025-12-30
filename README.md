@@ -19,7 +19,7 @@ I love solving problems, learning complex concepts, and building meaningful proj
 - 🧠 Learn **Machine Learning** & **Deep Learning**
 - 🔐 Explore **Cybersecurity**
 - 🧮 Strengthen **Data Structures & Algorithms**
-- 🏗 Build **full-stack web applications**
+- 🏗 Build **interactive web applications**
 
 ---
 
