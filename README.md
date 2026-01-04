@@ -43,11 +43,11 @@ I love solving problems, learning complex concepts, and building meaningful proj
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=default" />
+  <img height="2000" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&theme=default" />
+  <img height="2000" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProdigyTasfin&layout=compact&theme=default" />
 </p>
 
 ---
