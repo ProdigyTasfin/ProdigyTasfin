@@ -1,36 +1,17 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a79df&height=200&section=header&text=Tasfin's%20Workspace&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a79df&height=200&section=header&text=Tasfin%27s%20Workspace&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Typing Animation  -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=1200&center=true&vCenter=true&width=900&color=0A79DF&lines=Programmer+%7C+AI+%26+ML+Enthusiast;Did+You+Know%3F+C+was+created+in+1972+and+still+runs+the+world;Did+You+Know%3F+Java's+JVM+lets+code+run+anywhere;Did+You+Know%3F+Python+is+named+after+Monty+Python;Did+You+Know%3F+PHP+powered+Facebook's+early+backend;Did+You+Know%3F+C%2B%2B+drives+high-performance+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=1200&center=true&vCenter=true&width=900&color=0A79DF&lines=Programmer+%7C+AI+%26+ML+Enthusiast;Did+You+Know%3F+C+was+created+in+1972+and+still+runs+the+world;Did+You+Know%3F+Java%27s+JVM+lets+code+run+anywhere;Did+You+Know%3F+Python+is+named+after+Monty+Python;Did+You+Know%3F+PHP+powered+Facebook%27s+early+backend;Did+You+Know%3F+C%2B%2B+drives+high-performance+systems" />
 </p>
 
-<!-- Animated LinkedIn Preview -->
+<!-- LinkedIn Badge -->
 <p align="center">
-  
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tasfin-hasan-sakb" target="_blank">Follow on LinkedIn</a>
   <a href="https://www.linkedin.com/in/tasfin-hasan-sakb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tasfin%20Hasan%20Sakib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Tasfin%20Hasan%20Sakib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -77,7 +58,7 @@ I actively share **posts and articles** on LinkedIn about:
 - Computer Science fundamentals  
 - My journey as a CS student  
 
-🔗 **Read my posts & articles here:**  
+🔗 **Read here:**  
 👉 https://www.linkedin.com/in/tasfin-hasan-sakb/
 
 ---
@@ -100,7 +81,7 @@ I actively share **posts and articles** on LinkedIn about:
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img height="150" src="https://streak-stats.vercel.app/api?user=ProdigyTasfin&theme=default&hide_border=false" />
+  <img height="150" src="https://streak-stats.vercel.app/api?user=ProdigyTasfin&theme=default" />
 </p>
 
 ---
