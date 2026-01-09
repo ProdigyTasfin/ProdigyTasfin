@@ -5,8 +5,17 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1500&center=true&vCenter=true&width=700&color=0A79DF&lines=Programmer+%7C+AI+%26+ML+Enthusiast;Did+You+Know%3F+C+was+created+in+1972+and+still+runs+the+world;Did+You+Know%3F+Java's+JVM+lets+code+run+anywhere;Did+You+Know%3F+Python+is+named+after+Monty+Python;Did+You+Know%3F+PHP+powered+Facebook's+early+backend;Did+You+Know%3F+C%2B%2B+drives+high-performance+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&pause=1200&center=true&vCenter=true&width=900&color=0A79DF&lines=Programmer+%7C+AI+%26+ML+Enthusiast;Did+You+Know%3F+C+was+created+in+1972+and+still+runs+the+world;Did+You+Know%3F+Java's+JVM+lets+code+run+anywhere;Did+You+Know%3F+Python+is+named+after+Monty+Python;Did+You+Know%3F+PHP+powered+Facebook's+early+backend;Did+You+Know%3F+C%2B%2B+drives+high-performance+systems" />
 </p>
+
+<!-- Animated LinkedIn Preview -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/tasfin-hasan-sakb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tasfin%20Hasan%20Sakib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
 
 # 👋 Hi, I’m Tasfin
 
@@ -32,25 +41,25 @@ I enjoy solving problems, understanding systems deeply, and building meaningful 
 
 ---
 
-## 🚀 Featured Projects
-- 🔹 **Java Algorithms Toolkit**  
-  Core DSA implementations with clean explanations and examples  
-
-- 🔹 **C++ Competitive Programming**  
-  Problem-solving practice and optimized solutions  
-
-- 🔹 **Python ML Experiments**  
-  Hands-on ML learning from scratch  
-
-*(More projects coming as I build and refine)*
-
----
-
 ## 🛠 Tech Stack
 - **Languages:** Java, C++, Python, C  
 - **Core CS:** Data Structures, Algorithms, OOP, OS, DBMS  
 - **Tools:** Git, GitHub, Linux  
 - **Learning Areas:** Machine Learning, Cybersecurity, DevOps  
+
+---
+
+## ✍️ LinkedIn Posts & Articles
+I actively share **posts and articles** on LinkedIn about:
+
+- Programming & problem-solving mindset  
+- Java, C++, Python insights  
+- Learning AI & Machine Learning from scratch  
+- Computer Science fundamentals  
+- My journey as a CS student  
+
+🔗 **Read my posts & articles here:**  
+👉 https://www.linkedin.com/in/tasfin-hasan-sakb/
 
 ---
 
@@ -107,6 +116,7 @@ I enjoy solving problems, understanding systems deeply, and building meaningful 
 
 ## 📬 Contact
 📧 **Email:** tasfinhasansakib165@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/tasfin-hasan-sakb/
 
 ---
 
