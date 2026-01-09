@@ -5,7 +5,7 @@
 
 <!-- Typing Animation  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=10&duration=4000&pause=1200&center=true&vCenter=true&width=900&color=0A79DF&lines=Programmer+%7C+AI+%26+ML+Enthusiast;Did+You+Know%3F+C+was+created+in+1972+and+still+runs+the+world;Did+You+Know%3F+Java's+JVM+lets+code+run+anywhere;Did+You+Know%3F+Python+is+named+after+Monty+Python;Did+You+Know%3F+PHP+powered+Facebook's+early+backend;Did+You+Know%3F+C%2B%2B+drives+high-performance+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=1200&center=true&vCenter=true&width=900&color=0A79DF&lines=Programmer+%7C+AI+%26+ML+Enthusiast;Did+You+Know%3F+C+was+created+in+1972+and+still+runs+the+world;Did+You+Know%3F+Java's+JVM+lets+code+run+anywhere;Did+You+Know%3F+Python+is+named+after+Monty+Python;Did+You+Know%3F+PHP+powered+Facebook's+early+backend;Did+You+Know%3F+C%2B%2B+drives+high-performance+systems" />
 </p>
 
 <!-- Animated LinkedIn Preview -->
