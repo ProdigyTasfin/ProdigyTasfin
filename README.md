@@ -1,81 +1,125 @@
-<!-- Premium Minimal Header -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a79df&height=120&section=header&text=Tasfin%20Hasan%20Sakib&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a79df&height=200&section=header&text=Tasfin's%20Workspace&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Minimal Typing Animation -->
+<!-- Typing Animation  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&center=true&vCenter=true&width=750&color=0A79DF&lines=Computer+Science+Student;Programmer;AI+%26+ML+Enthusiast;Building+Systems+That+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=300&duration=4000&pause=1200&center=true&vCenter=true&width=900&color=0A79DF&lines=Programmer+%7C+AI+%26+ML+Enthusiast;Did+You+Know%3F+C+was+created+in+1972+and+still+runs+the+world;Did+You+Know%3F+Java's+JVM+lets+code+run+anywhere;Did+You+Know%3F+Python+is+named+after+Monty+Python;Did+You+Know%3F+PHP+powered+Facebook's+early+backend;Did+You+Know%3F+C%2B%2B+drives+high-performance+systems" />
 </p>
 
-<!-- Social Links -->
+<!-- Animated LinkedIn Preview -->
 <p align="center">
   <a href="https://www.linkedin.com/in/tasfin-hasan-sakb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:tasfinhasansakib165@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tasfin%20Hasan%20Sakib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
 
-## About Me
-I’m a **Computer Science student** focused on building **reliable, scalable, and well-structured software**.  
-I value **clarity, fundamentals, and long-term thinking** over shortcuts.
+# 👋 Hi, I’m Tasfin
+
+💻 **Computer Science Student | Programmer | AI & ML Enthusiast**  
+I enjoy solving problems, understanding systems deeply, and building meaningful software.
 
 ---
 
-## Focus Areas
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Machine Learning Fundamentals  
-- Cybersecurity Basics  
-- Systems & Performance-oriented Programming  
+## 🌟 What I Do
+- 🧠 Learn **Machine Learning** & **Deep Learning**
+- 🔐 Explore **Cybersecurity**
+- 🧮 Strengthen **Data Structures & Algorithms**
+- 🏗 Build **interactive and scalable applications**
 
 ---
 
-## Tech Stack
-**Languages:** Java, C++, Python, C  
-**Core CS:** DSA, OOP, OS, DBMS  
-**Tools:** Git, GitHub, Linux  
-**Currently Exploring:** AI, ML, DevOps  
+## 🎯 What I’m Currently Learning
+- Java & Algorithms  
+- Python  
+- C++  
+- Competitive Programming (Codeforces)  
+- DevOps Fundamentals  
 
 ---
 
-## Selected Work
-- **Algorithms & DSA (Java)** — clean implementations with explanations  
-- **Competitive Programming (C++)** — optimized problem-solving practice  
-- **ML Experiments (Python)** — learning models from first principles  
+## 🛠 Tech Stack
+- **Languages:** Java, C++, Python, C  
+- **Core CS:** Data Structures, Algorithms, OOP, OS, DBMS  
+- **Tools:** Git, GitHub, Linux  
+- **Learning Areas:** Machine Learning, Cybersecurity, DevOps  
 
 ---
 
-## Writing & Posts
-I share technical posts and learning insights on LinkedIn:
-- Programming concepts explained simply  
-- Java, C++, Python learnings  
-- AI & ML fundamentals  
-- CS student journey  
+## ✍️ LinkedIn Posts & Articles
+I actively share **posts and articles** on LinkedIn about:
 
-🔗 https://www.linkedin.com/in/tasfin-hasan-sakb/
+- Programming & problem-solving mindset  
+- Java, C++, Python insights  
+- Learning AI & Machine Learning from scratch  
+- Computer Science fundamentals  
+- My journey as a CS student  
+
+🔗 **Read my posts & articles here:**  
+👉 https://www.linkedin.com/in/tasfin-hasan-sakb/
 
 ---
 
-## GitHub Overview
+## 🤓 Fun Nerd Facts
+- C (1972) powers Linux, Git, databases, and OS kernels  
+- Java’s JVM enables **Write Once, Run Anywhere**  
+- Python was named after **Monty Python**, not the snake  
+- PHP originally meant **Personal Home Page Tools**  
+- C++ runs game engines, browsers, and high-performance systems  
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProdigyTasfin&show_icons=true&hide_title=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProdigyTasfin&show_icons=true&theme=default" />
 </p>
 
 ---
 
-## Activity
+## 🔥 Contribution Streak
 <p align="center">
-  <img height="140" src="https://streak-stats.vercel.app/api?user=ProdigyTasfin&hide_border=true" />
+  <img height="150" src="https://streak-stats.vercel.app/api?user=ProdigyTasfin&theme=default&hide_border=false" />
 </p>
 
 ---
 
+## 🧩 Profile Summary
 <p align="center">
-  <sub>Focused on fundamentals. Consistent progress. Long-term growth.</sub>
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProdigyTasfin&theme=default" />
 </p>
+
+---
+
+## 🗂️ Repositories by Language
+<p align="center">
+  <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProdigyTasfin&theme=default" />
+</p>
+
+---
+
+## ⏳ Most Productive Time
+<p align="center">
+  <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProdigyTasfin&theme=default&utcOffset=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ProdigyTasfin/ProdigyTasfin/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📬 Contact
+📧 **Email:** tasfinhasansakib165@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/tasfin-hasan-sakb/
+
+---
+
+> *“Simplicity is the ultimate sophistication.”* — Leonardo da Vinci  
+
+**Learning deeply. Building carefully. Improving consistently.**
