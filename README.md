@@ -125,11 +125,6 @@
     <td align="center" width="50%">
       <b>East West University</b><br/>
       <sub>BSc in Computer Science</sub>
-    </td>
-    <td align="center" width="50%">
-      <b>Feni Govt. College</b><br/>
-      <sub>HSC, Science · <b>GPA 5.00 / 5.00</b></sub>
-    </td>
   </tr>
 </table>
 
